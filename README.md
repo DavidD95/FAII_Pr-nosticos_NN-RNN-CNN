@@ -1,9 +1,6 @@
 # Predicción de Brotes de Dengue en Cali, Colombia
 ### Un Enfoque Competitivo con Machine Learning para un Problema de Salud Pública
 
-![Leaderboard](https://i.imgur.com/uQ9x8tA.png)
-*Resultado final en el leaderboard de la competencia, posicionando a FVL TEAM en el 3er lugar.*
-
 ---
 
 ## 1. Introducción y Contexto del Problema
